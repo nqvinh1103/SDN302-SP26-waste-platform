@@ -1,0 +1,6 @@
+export { Navbar } from "./Navbar"
+export { Hero } from "./Hero"
+export { Stats } from "./Stats"
+export { RoleSelection } from "./RoleSelection"
+export { HowItWorks } from "./HowItWorks"
+export { Footer } from "./Footer"
